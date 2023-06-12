@@ -1,4 +1,4 @@
-alert(' Hello World!');
+'use strict';
 
 let js = 'amazing'; // variable declaration.
 if (js === 'amazing')
