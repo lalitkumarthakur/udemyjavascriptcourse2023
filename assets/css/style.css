@@ -3,3 +3,11 @@
     padding: 0 !important;
     scroll-behavior: smooth !important;
 }
+
+.headr-navbar {
+    padding: 1rem 2rem !important;
+}
+
+.bg-navbar {
+    background: blue !important;
+}
